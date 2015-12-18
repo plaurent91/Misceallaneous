@@ -1,2 +1,2 @@
-# Misceallaneous
+# Miscellaneous
 Some code
